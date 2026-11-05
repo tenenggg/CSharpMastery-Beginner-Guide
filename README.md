@@ -2,6 +2,8 @@
 
 These are my personal way of studying C#, by writing clean codes and detailed notes as comments. If you think this is also an effective way for you to learn C# and .NET fundamentals, feel free to clone and learn!
 
+![C# Mastery Mind Map](mindmap.png)
+
 ## Overview
 This repository contains a comprehensive, step-by-step guide to mastering C# from beginner to intermediate levels. Every topic is implemented as a standalone, runnable console project with code and explanatory comments inside `Program.cs`.
 
