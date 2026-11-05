@@ -1,0 +1,55 @@
+<Solution>
+  <Project Path="arrayclearing/arrayclearing.csproj" Id="622c5529-fd12-4d43-9d50-9030045e8711" />
+  <Project Path="arrayindexOf/arrayindexOf.csproj" Id="879f47c9-62e9-4dc0-b119-b901ac385467" />
+  <Project Path="arrayOfMultiples/exercise-arrayOfMultiples.csproj" Id="d45c7ff8-bed8-49aa-963c-26a32ec578be" />
+  <Project Path="arrays/arrays.csproj" Id="ca5271dd-6bde-4e64-b704-c6a68216e7ab" />
+  <Project Path="arraysorting/arraysorting.csproj" Id="9f5d59a8-876f-45ac-8b43-e67bdf60187c" />
+  <Project Path="classes/classes.csproj" Id="99a9f1d1-35f0-4171-adcd-d24013cbd69f" />
+  <Project Path="ClassFields/ClassFields.csproj" Id="3fc038ce-f2c5-4234-9f48-90d0c8ceafd9" />
+  <Project Path="ClassFunctions/ClassFunctions.csproj" Id="003d5d52-9c14-45c8-a036-d87f26f68eb1" />
+  <Project Path="ClassFunctions2/ClassFunctions2.csproj" Id="a36f4bad-a4c4-4fb7-b664-2673c61bb1f3" />
+  <Project Path="ClassToStringFuncOverride/ClassToStringFuncOverride.csproj" Id="25f2b828-b89d-49c5-b4e8-6a1432f6173e" />
+  <Project Path="classVariable&amp;Function'sScope/ClassProperties.csproj" Id="b61e7fe3-082a-4bff-8bbc-e9843f4713ce" />
+  <Project Path="conditional operator/conditional operator.csproj" Id="4230c35e-5f44-42a1-8ac9-dbb48b71ed1d" />
+  <Project Path="consoleInputOutput/consoleInputOutput.csproj" Id="1e9395a5-4e0e-4dfe-ab28-d9ea151f134c" />
+  <Project Path="customTryParse/exercise-customTryParse.csproj" Id="5106fcfd-071e-4b9d-bb28-4f03d666a415" />
+  <Project Path="DataTypes/DataTypes.csproj" Id="87bf4a57-06ed-4cd9-b304-c03d1954dd69" />
+  <Project Path="Debugging/Debugging.csproj" Id="979e6629-73b0-41f6-8e53-a6fecbb2ecbf" />
+  <Project Path="debugging2/debugging2.csproj" Id="c7d1ce53-9c86-4c9f-905c-b27deb8d22b6" />
+  <Project Path="Dictionary/Dictionary.csproj" Id="978f04eb-61d3-4ecb-bab3-39b0e0f034cc" />
+  <Project Path="empty/emptyString.csproj" Id="f9a8ca9c-7e9d-414c-bebf-fc0e131e64fa" />
+  <Project Path="exceptionHandling/exceptionHandling.csproj" Id="d0c4fd62-f7ac-471d-b505-2735436d0985" />
+  <Project Path="exercise-areaOftriangle/exercise-areaOftriangle.csproj" Id="a24ccb28-db50-47ac-8486-89905a14b332" />
+  <Project Path="exercise-fizzbuzz-game/exercise-fizzbuzz-game.csproj" Id="05f765a1-92b3-4677-a55a-f15fe9d7ea9d" />
+  <Project Path="exercise-passwordChecker/exercise-passwordChecker.csproj" Id="773c206d-99ff-4ec4-a5b8-f011e8311805" />
+  <Project Path="exercise-printStringReverse/exercise-printStringReverse.csproj" Id="b5ae9fca-400f-4dcd-a2b3-ab2185975918" />
+  <Project Path="exercise-sumOfIntArray/exercise-sumOfIntArray.csproj" Id="94ae33d3-a003-468c-b322-0da300dc3d83" />
+  <Project Path="exercise-TimeTable/exercise-TimeTable.csproj" Id="b45ebb72-167b-4ac2-9979-205daef99a06" />
+  <Project Path="exercises-odd&amp;evenNumberSplit/exercise-odd&amp;evenNumberSplit.csproj" Id="f429d231-4f1a-4b86-b326-9c3e87d2c56b" />
+  <Project Path="Function/Function.csproj" Id="75decf2f-ff21-43b2-a1fc-a8b7e21c4bf7" />
+  <Project Path="FunctionsParameters/FunctionsParameters.csproj" Id="d30def5f-394f-48f6-ba43-4b7a494d6ed9" />
+  <Project Path="IfElse and switch/IF Else.csproj" Id="aa7a9664-2428-4749-9b80-3c53097d0350" />
+  <Project Path="list/list.csproj" Id="387a4cfd-0aeb-49a5-975c-725f2af0265d" />
+  <Project Path="loop&amp;if else mini exercise/loop &amp; if else mini exercise.csproj" Id="f57a23dc-b607-4497-8198-079f5fa39395" />
+  <Project Path="loop/loop.csproj" Id="577cb570-8855-426b-8367-a52b207c0f81" />
+  <Project Path="namedParameters/namedParameters.csproj" Id="9e83efe4-252e-4e25-93d5-7fb4286584a6" />
+  <Project Path="numeric formatting/numeric formatting.csproj" Id="b207faf5-3475-45b0-85f2-7ee014b2f8c9" />
+  <Project Path="Operator,remainder, var and co/Operator,remainder, var and co.csproj" Id="d7629fee-c149-41cc-b766-99c609d27a2d" />
+  <Project Path="OptionalParameters/OptionalParameters.csproj" Id="d9ca772c-c7e2-4132-b8e4-51d61f7c1079" />
+  <Project Path="outParameter(SIMPLER)/outParameter(SIMPLER).csproj" Id="2786b67d-306f-47e4-b1ae-69159ff7f3bf" />
+  <Project Path="outParameters/outParameters.csproj" Id="1f26ec18-89f6-4d43-91b4-659af3fe2569" />
+  <Project Path="PrintErrorMessages/PrintErrorMessages.csproj" Id="220566ba-4c57-44cf-8f5c-be8178707f22" />
+  <Project Path="referenceParameter/referenceParameter.csproj" Id="dd5acb94-8d84-4d87-b942-d9edbca7fdcd" />
+  <Project Path="returnTypeFunctions/returnTypeFunctions.csproj" Id="065a0434-bb0a-4a5d-8a6f-da7ccf830575" />
+  <Project Path="reversearray/reversearray.csproj" Id="8605f50d-771a-4f6e-b0f5-f9f010b29474" />
+  <Project Path="stringEqualsFunction/stringEqualsFunction.csproj" Id="8b456656-4bc0-4d5e-b731-18587f410ae7" />
+  <Project Path="stringFormattin/stringFormatting.csproj" Id="8826fe6f-172b-442b-89d6-54d0ef40fff2" />
+  <Project Path="StringisNullorEmptyFunc/StringisNullorEmptyFunc.csproj" Id="722924ea-9162-4198-ba3d-30b45ad1e114" />
+  <Project Path="StringIteration(looping)/StringIteration(looping).csproj" Id="6c44e126-61bf-457c-85c0-44bca06e02b0" />
+  <Project Path="structures/structures.csproj" Id="616f7816-43c3-4fd6-9bd3-222190dc21fc" />
+  <Project Path="Switch/Switch.csproj" Id="7eca94bd-17b6-477c-af27-2fca5817bb79" />
+  <Project Path="tryNcatch/tryNcatch.csproj" Id="57837aeb-cd50-49f8-8869-870a4d8f9e81" />
+  <Project Path="TryParse Function/TryParse Function.csproj" Id="63f026a7-4cf7-427b-b9a0-a045a03828ee" />
+  <Project Path="VerbatingStringLiteral/VerbatingStringLiteral.csproj" Id="1c23bd46-0048-41fe-a5e7-29fd028d6efe" />
+  <Project Path="voidFunctions/voidFunctions.csproj" Id="aafeaa19-0380-468d-af59-055b8d405280" />
+</Solution>
